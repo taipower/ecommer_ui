@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643302195202",
+    "project_id": "my-ecommer-project",
+    "storage_bucket": "my-ecommer-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643302195202:android:e95928a3f10574a3ee271b",
+        "android_client_info": {
+          "package_name": "com.example.ecommer_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643302195202-b66fgi5tfln5sn7n1762hhu3lc2n8rk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_bfnPQ7zJNtOzjkPTSl3a9lKuilrQyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643302195202-b66fgi5tfln5sn7n1762hhu3lc2n8rk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
